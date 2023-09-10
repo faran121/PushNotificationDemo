@@ -1,0 +1,13 @@
+
+{
+    "Simulator Target Bundle": "com.push.notification.PushNotification",
+    "aps": {
+        "category": "myNotificationCategory",
+        "alert": {
+            "title": "Watch Video!!!",
+            "body": "Watch Video on push notification"
+        },
+        "mutable-content": 1,
+        "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+    }
+}
